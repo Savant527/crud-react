@@ -1,0 +1,39 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "name": "Sebastian Navas",
+      "signo": "Capricornio"
+    },
+    {
+      "id": 2,
+      "name": "Edwin Ayala",
+      "signo": "Leo"
+    },
+    {
+      "id": 3,
+      "name": "Estiven Guelpaz",
+      "signo": "Acuario"
+    },
+    {
+      "id": 4,
+      "name": "Antony Linares",
+      "signo": "Aries"
+    },
+    {
+      "id": 5,
+      "name": "David Santa",
+      "signo": "Sagitario"
+    },
+    {
+      "name": "Mariana Palma",
+      "signo": "Escorpion",
+      "id": 1664843982299
+    },
+    {
+      "name": "Lina Cuadros",
+      "signo": "Leo",
+      "id": 1664847835055
+    }
+  ]
+}
